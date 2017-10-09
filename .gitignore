@@ -1,0 +1,7 @@
+*.py[co]
+.*.swp
+.tox
+docs/build/*
+dist/
+Flask_Redis.egg-info/*
+build/*
